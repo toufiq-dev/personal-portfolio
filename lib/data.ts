@@ -48,7 +48,7 @@ export const experiencesData = [
     description:
       "I started with a front-end role then gradually evolved myself into full-stack development. Implemented business logic into several modules in agile work environment.",
     icon: React.createElement(CgWorkAlt),
-    date: "2022 - 2023",
+    date: "2021 - 2023",
   },
   {
     title: "Backend Engineer",

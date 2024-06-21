@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Toufiqur Rahman | Personal Portfolio",
   description:
-    "Toufiqur Rahman is a full-stack developer with 2 years of experience.",
+    "Toufiqur Rahman is a full-stack developer with almost 3 years of experience.",
 };
 
 export default function RootLayout({
